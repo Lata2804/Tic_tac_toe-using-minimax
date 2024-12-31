@@ -91,13 +91,39 @@ Input number of square you'd like to move to:
 
 AI chooses square 1
 
- X | 2 | 3
+ O | 2 | 3
 ---|---|---
  4 | X | 6
 ---|---|---
  7 | 8 | 9
 
-...
+Input number of square you'd like to move to:
+>>> 3
+
+AI chooses square 7
+
+ O | 2 | X
+---|---|---
+ 4 | X | 6
+---|---|---
+ O | 8 | 9
+
+Input number of square you'd like to move to:
+>>> 2
+
+AI chooses square 4
+
+ O | X | X
+---|---|---
+ O | X | 6
+---|---|---
+ O | 8 | 9
+
+AI win!
+
+Play again? Yes/No:
+>>> no
+```
 
 You win!
 
