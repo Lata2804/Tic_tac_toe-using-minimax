@@ -125,14 +125,6 @@ Play again? Yes/No:
 >>> no
 ```
 
-You win!
-
-Play again? Yes/No:
->>> no
-```
-
----
-
 
 ## License
 
